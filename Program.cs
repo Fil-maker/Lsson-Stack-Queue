@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
+// Зубарев Филипп
+
 class Progrram{ 
 
     class StackItem
